@@ -1,4 +1,4 @@
-# Lab 3 - Exercise 3 - CE232
+# Lab 3 - Exercise 4 - CE232
 
 ## Thanh vien nhom 9:
 
